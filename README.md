@@ -7,8 +7,8 @@ Before I get into the files, here are some cool lil photos I took recently :)
 
 
 <p float="left">
-  <img src="https://github.com/CraftyCranberry/Shogun_Stuff/assets/82392157/e0adf550-0a47-4f59-9c3e-adc5d2461fa4" width="500" />
-  <img src="https://github.com/CraftyCranberry/Shogun_Stuff/assets/82392157/2b55c31d-403a-4fbd-9a3a-860fd45f0554" width="500" /> 
+  <img src="https://github.com/CraftyCranberry/Shogun_Stuff/assets/82392157/e0adf550-0a47-4f59-9c3e-adc5d2461fa4" width="300" />
+  <img src="https://github.com/CraftyCranberry/Shogun_Stuff/assets/82392157/2b55c31d-403a-4fbd-9a3a-860fd45f0554" width="300" /> 
 </p>
 
 

@@ -24,7 +24,7 @@ Here's a comparison of the actual manifold I scanned, vs the output from the 3D 
 ## The files
 Here's a list of files in here:
 - STL Model of the inlet manifold
-- The SolidWorks part file of the inlet manifold (So you can edit it for custom variations of the manifold)
+- The SolidWorks part file of the inlet manifold (Coming later)
 - Service Manual
 - Owners Manual
 - Parts Catalog

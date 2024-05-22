@@ -1,4 +1,4 @@
-# Shogun Stuff
+# Shogun's Stuff
 This repository contains the model of TVS-Suzuki Shogun's manifold along with other useful material I've managed to collect for this motorcycle over the past few years. 
 
 After 3D scanning the actual manifold, I reverse-engineered the part from the 3D scan, using it as a reference for the various planes needed to develop an accurate 3D mockup.
